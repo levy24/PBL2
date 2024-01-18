@@ -1,0 +1,36 @@
+Departure City: HA NOI
+Destination City: PHU QUOC
+Round Trip
+Departure Date: 2024-01-10
+Return Date: 2024-01-13
+Selected Outbound Flight: F004
+Selected Outbound Seat: 10E
+Departure Time: 18:45
+Selected Return Flight: F005
+Selected Return Seat: 11F
+Return Time: 03:15
+
+Departure City: HA NOI
+Destination City: PHU QUOC
+Round Trip
+Departure Date: 2024-01-10
+Return Date: 2024-01-13
+Selected Outbound Flight: F004
+Selected Outbound Seat: 10F
+Departure Time: 18:45
+Selected Return Flight: F005
+Selected Return Seat: 12F
+Return Time: 03:15
+
+Departure City: HA NOI
+Destination City: PHU QUOC
+Round Trip
+Departure Date: 2024-01-10
+Return Date: 2024-01-13
+Selected Outbound Flight: F004
+Selected Outbound Seat: 17E
+Departure Time: 18:45
+Selected Return Flight: F005
+Selected Return Seat: 13F
+Return Time: 03:15
+
